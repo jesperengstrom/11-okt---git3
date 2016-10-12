@@ -23,7 +23,8 @@ Här är en text med både **fet** text samt *kursiv* text samt ~~genomstruken~~
 ```javascript
 function stackMe(){
     stackMe();
-}```
+}
+```
 
 
 | **Dålig grej** | **Bra grej** |
