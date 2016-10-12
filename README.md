@@ -9,17 +9,17 @@
 
 Här är en text med både **fet** text samt *kursiv* text samt ~~genomstruken~~ text.
 
-######Här är en ordnad lista på bra grejer
+#### Här är en ordnad lista på bra grejer
 1. Bra grej 1
 2. Bra grej 2
 3. Bra grej 3
 
-######Här är oordnad lista på dåliga grejer
+##### Här är oordnad lista på dåliga grejer
 * Dålig grej 1
 * Dålig grej 2
 * Dålig grej 3
 
-###### Här lägger jag in lite cool kod
+#### Här lägger jag in lite cool kod
 ```javascript
 function stackMe(){
     stackMe();
